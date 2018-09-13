@@ -39,3 +39,5 @@ hs_err_pid*
 *.iws
 *.iml
 *.ipr
+.mvn/wrapper/maven-wrapper.properties
+.mvn/wrapper/maven-wrapper.jar
